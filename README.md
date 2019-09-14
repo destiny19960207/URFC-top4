@@ -173,6 +173,7 @@ LGB/lgb.py
 | 基于时间的规则| 基于天数的规则 |rule/lyg_day| 0.7182 |
 | 基于时间的规则| 基于周末的规则 |rule/lyg_holiday| 0.68716 |
 | 基于时间的规则| 基于总时长的规则 |rule/totaltime| 0.68572 |
+
 3）LGB基模型的验证集准确率  
 
 | LGB基模型 | Acc |
